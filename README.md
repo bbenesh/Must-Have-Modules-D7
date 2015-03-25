@@ -1,5 +1,6 @@
 # Must-Have-Modules-D7
 Documentation of Modules I must have any time I create a D7 site (work in progress).
+[Markdown Reference](https://guides.github.com/features/mastering-markdown/)
 
 # Core
 - contextual links
