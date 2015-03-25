@@ -66,9 +66,10 @@ Documentation of Modules I must have any time I create a D7 site (work in progre
 - admin_views
 
 
-Package | Name  | Type  | Status  | Version        
+Package | Name  | Type  | Status | Version
+------- | ----- | ----- | ------ | -------
  Administration | Actions permissions (VBO) (actions_permissions) | Module  | Not installed | 7.x-3.2        
- Administration                       Administration Development tools (admin_devel)                                       Module  Not installed  7.x-3.0-rc5    
+ Administration | Administration Development tools (admin_devel) | Module | Not installed | 7.x-3.0-rc5    
  Administration                       Administration menu (admin_menu)                                                     Module  Enabled        7.x-3.0-rc5    
  Administration                       Administration menu Adminimal Theme (adminimal_admin_menu)                           Module  Enabled        7.x-1.5        
  Administration                       Administration menu Toolbar style (admin_menu_toolbar)                               Module  Not installed  7.x-3.0-rc5    
